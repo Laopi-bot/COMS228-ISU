@@ -2,7 +2,7 @@ Hello! Welcome to a repo of my completed assignments in the data structures clas
 
 Our projcets Included
 1.) Computing yearly profits of 2D grid of different typs of customers, 
-    constantly updating based on who is next to them. 
+    constantly updating based on who is next to them.     
 2.) Read an input set of 2D integer points in a coordinate plane, and determine the median coordinate
     point, whose x-coordinate is equal to the mean of the x coordinates of the input points (same goes
     for the y coordinates).
