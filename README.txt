@@ -9,3 +9,5 @@ Our projcets Included
 3.) Implement a class called StoutList that extends AbstractSequentialList, along with inner classes
     for the different iterators it could have.
 4.) Reconstruct/unzip a message archived with a binary-tree based algorithm. 
+
+And a miniassignment which included writing out different searching and sorting algorithms!
